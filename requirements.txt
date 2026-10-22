@@ -1,0 +1,11 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+geopandas
+scikit-learn
+statsmodels
+python-dotenv
+requests

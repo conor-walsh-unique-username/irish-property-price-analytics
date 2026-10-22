@@ -1,0 +1,23 @@
+# Notebook, Python and editor caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Local credentials; retain the example.
+.env
+.env.*
+!.env.example
+.envrc
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Optional boundary downloads used only to repeat geocoding.
+data/cso_small_areas.geojson
+data/cso_lea.geojson
